@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pharaoh5
-- 📫 How to reach me  telegram @Farkhat2002
+- 📫 How to reach me  telegram [@Farkhat2002](https://t.me/@Farkhat2002)
 
 <!---
 Pharaoh5/Pharaoh5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
